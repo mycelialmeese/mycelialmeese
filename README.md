@@ -14,8 +14,8 @@ Most of my professional work lives behind NDAs (LightDeck Diagnostics, SomaLogic
 
 | Repo | Description | Stack |
 |------|-------------|-------|
-| [colorado-snowpack-prediction](https://github.com/mycelialmeese/Intro_ML_Supervisewd_Final) | Predicting peak annual snowpack at 7 Colorado SNOTEL sites using climate indices + gradient boosting | scikit-learn, pandas |
-| [chest-xray-disease-classifier](https://github.com/mycelialmeese/Chest_Xray_CNN) | CNN classifier for chest X-rays (Normal / Pneumonia / TB) with iterative architecture refinement | TensorFlow, Keras |
+| [colorado-snowpack-prediction](https://github.com/mycelialmeese/colorado-snowpack-prediction) | Predicting peak annual snowpack at 7 Colorado SNOTEL sites using climate indices + gradient boosting | scikit-learn, pandas |
+| [chest-xray-disease-classifier](https://github.com/mycelialmeese/chest-xray-disease-classifier) | CNN classifier for chest X-rays (Normal / Pneumonia / TB) with iterative architecture refinement | TensorFlow, Keras |
 | [cancer-subtype-clustering](https://github.com/mycelialmeese/Unsupervised-Learning-Final-Project) | Cancer subtype prediction via SVD dimensionality reduction + logistic regression | scikit-learn |
 | [histopathology-cnn-classifier](https://github.com/mycelialmeese/Deep-Learning-Classwork-Week-3) | CNN classification of histopathology images with skip connection comparison | PyTorch |
 | [nlp-disaster-tweet-classifier](https://github.com/mycelialmeese/Deep-Learning-Classwork-Week-4) | NLP binary classification on tweets (Kaggle competition) | PyTorch |
